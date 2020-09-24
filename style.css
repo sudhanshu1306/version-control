@@ -1,0 +1,35 @@
+.intro{
+  background-image: url(bg-pale.jpg);
+  color: white;
+  padding:10px;
+}
+/* body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}   */
+body{
+  background-image: linear-gradient(to bottom right,#c3aed6,#f56a79,#fca652,#931a25);
+
+}
+.content{
+  padding: 10px;
+  color: #40514E;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+.git {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+}
+.github{
+  background-image: url(bg.jpg);
+  padding: 10px;
+  color: #40514E;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
